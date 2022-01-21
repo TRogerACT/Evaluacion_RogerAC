@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Evaluacion_RogerAC</string>
+    <string name="label_nuevoUser"><u>Crear una nueva</u></string>
+    <string name="title_activity_inicio">InicioActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Roger Luis Arias Carhuas</string>
+    <string name="nav_header_subtitle">xxrogeracxx@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">CUENTAS</string>
+    <string name="menu_gallery">Fragment_2</string>
+    <string name="menu_slideshow">Fragment_3</string>
+</resources>
